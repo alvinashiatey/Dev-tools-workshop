@@ -71,6 +71,10 @@ The Sources tool enables inspection and editing of a web page's JavaScript code.
 8. When you have finished debugging, you can resume the code execution by clicking the "Resume" button or using the keyboard shortcut `F8`.
 9. You can also make changes to the code in the editor and see the results in real-time by hitting "Save" or Ctrl+S (or `Cmd+S` on Mac).
 
+### Exercise 4: Creating a bookmarklet
+
+Here we will create a simple JavaScript bookmarklet that will
+
 ## Resources
 
 ### Developer Tools Documentation
@@ -79,7 +83,20 @@ The Sources tool enables inspection and editing of a web page's JavaScript code.
 * [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 
+### Youtube Tutorials
+
+* [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y&ab_channel=Fireship)
+* [Debugging JavaScript - Chrome DevTools 101](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers)
+* [DevTools Tip](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X)
+* [Chrome DevTools for designers](https://www.youtube.com/watch?v=yNwwEu3Kcbs&ab_channel=GoogleChromeDevelopers)
+
 ### Extensions
 
-* [Visbug-Chrome](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
-* [Visbug-Firefox](https://addons.mozilla.org/en-US/firefox/addon/visbug/)
+* [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+* [ColorZilla](https://www.colorzilla.com/)
+* [FontFace Ninja](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
+* [Responsive viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+
+### Other
+
+* [Awesome Developer Tools](https://github.com/moimikey/awesome-devtools)
