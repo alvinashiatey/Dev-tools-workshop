@@ -92,6 +92,7 @@ The Sources tool enables inspection and editing of a web page's JavaScript code.
 * [ColorZilla](https://www.colorzilla.com/)
 * [FontFace Ninja](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 * [Responsive viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+* [TOP 28 Chrome Extensions for Frontend Developers in 2022](https://www.frontendplanet.com/top-chrome-extensions-for-frontend-developers/)
 
 ### Other
 
