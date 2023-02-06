@@ -98,3 +98,4 @@ The Sources tool enables inspection and editing of a web page's JavaScript code.
 
 * [Awesome Developer Tools](https://github.com/moimikey/awesome-devtools)
 * [BuiltWith](https://builtwith.com/****)
+* [Rosa's Class, Software for People, Resources](https://2023.software-for-people.net/resources.php)
