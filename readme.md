@@ -1,6 +1,6 @@
 # Dev Tools Workshop
 
-This is a brief workshop developed for Ritu Ghiya's Class, collage poetics, at Graphic Design Department, Yale School of Art.
+This is a brief workshop developed for [Ritu Ghiya's](http://ritughiya.com/) Class, collage poetics, at Graphic Design Department, Yale School of Art.
 
 ## Overview
 
