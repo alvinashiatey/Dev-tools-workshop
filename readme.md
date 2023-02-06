@@ -4,7 +4,7 @@ This is a brief workshop developed for Ritu Ghiya's Class, collage poetics, at G
 
 ## Overview
 
-This workshop has been designed to provide an overview of the browser developer tools for participants. The program is divided into two sections, each serving a distinct purpose. The first section will provide a brief introduction to the tools and their functions, while the second section will comprise a series of exercises aimed at helping participants learn how to use the tools to debug and inspect web pages. The workshop will conclude with the creation of a simple JavaScript bookmarklet that will enable participants to access the developer tools quickly and efficiently.
+This workshop has been designed to provide an overview of the browser developer tools for participants. The program is divided into two sections, each serving a distinct purpose. The first section will provide a brief introduction to the tools and their functions, while the second section will comprise a series of exercises aimed at helping participants learn how to use the tools to debug and inspect web pages.
 
 ## Part 1: Introduction to the Developer Tools
 
@@ -71,10 +71,6 @@ The Sources tool enables inspection and editing of a web page's JavaScript code.
 8. When you have finished debugging, you can resume the code execution by clicking the "Resume" button or using the keyboard shortcut `F8`.
 9. You can also make changes to the code in the editor and see the results in real-time by hitting "Save" or Ctrl+S (or `Cmd+S` on Mac).
 
-### Exercise 4: Creating a bookmarklet
-
-Here we will create a simple JavaScript bookmarklet that will
-
 ## Resources
 
 ### Developer Tools Documentation
@@ -100,3 +96,4 @@ Here we will create a simple JavaScript bookmarklet that will
 ### Other
 
 * [Awesome Developer Tools](https://github.com/moimikey/awesome-devtools)
+* [BuiltWith](https://builtwith.com/****)
